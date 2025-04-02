@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# IDE-specific files
+*.idea/
+*.vscode/
+*.vs/
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS-generated files
+.DS_Store
+Thumbs.db
